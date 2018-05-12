@@ -1,0 +1,43 @@
+_repo: -uvres-de-P.-Corneille-Tome-04_39739
+_version: 0.1.0
+alternative_title: Oeuvres de P. Corneille, Tome 04
+contributor:
+  commentator:
+    agent_name: Marty-Laveaux, Charles Joseph
+    aliases:
+    - Marty-Laveaux, Ch. (Charles Joseph)
+    - Marty-Laveaux, Ch. (Charles)
+    birthdate: 1823
+    deathdate: 1899
+    gutenberg_agent_id: '37028'
+    url: http://www.gutenberg.org/2009/agents/37028
+covers:
+- cover_type: archival
+  image_path: 39739-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Corneille, Pierre
+    birthdate: 1606
+    deathdate: 1684
+    gutenberg_agent_id: '960'
+    url: http://www.gutenberg.org/2009/agents/960
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Pierre_Corneille
+    - http://en.wikipedia.org/wiki/Pierre_Corneille
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2012-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39739'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama (Tragedy) -- 17th century'
+- !lcc 'PQ'
+tableOfContents: "-- Pompée, tragédie\r\n-- le Menteur, comédie\r\n-- la Suite du\
+  \ Menteur, comédie\r\n-- Rodogune, princesse des Parthes, tragédie"
+title: Œuvres de P. Corneille, Tome 04
+url: http://www.gutenberg.org/ebooks/39739
