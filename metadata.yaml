@@ -25,6 +25,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Pierre_Corneille
     - http://en.wikipedia.org/wiki/Pierre_Corneille
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39739#-uvres-de-P.-Corneille-Tome-04
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2012-05-19'
 gutenberg_type: Text
